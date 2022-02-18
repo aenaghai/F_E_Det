@@ -1,1 +1,1 @@
-# F_E_det
+Face and Eye Detection using OpenCV, python and the Haarcascade Classifier
